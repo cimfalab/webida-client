@@ -1,4 +1,5 @@
 # webida-client
+[![DeepScan Grade](https://deepscan.io/api/projects/30/branches/37/badge/grade.svg)](https://deepscan.io/dashboard/#view=project&pid=30&bid=37)
 
 Web based IDE
 
